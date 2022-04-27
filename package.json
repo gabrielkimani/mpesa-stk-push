@@ -1,6 +1,6 @@
 {
   "name": "mpesa-stk-push",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that simplifies mpesa payments through stk push.",
   "main": "index.js",
   "scripts": {
