@@ -1,0 +1,28 @@
+{
+  "name": "mpesa-stk-push",
+  "version": "1.0.0",
+  "description": "A package that simplifies mpesa payments through stk push.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielkimani/mpesa-stk-push.git"
+  },
+  "keywords": [
+    "mpesa",
+    "online-payments",
+    "node-mpesa"
+  ],
+  "author": "Kimani Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielkimani/mpesa-stk-push/issues"
+  },
+  "homepage": "https://github.com/gabrielkimani/mpesa-stk-push#readme",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "request": "^2.88.2"
+  }
+}
